@@ -1,6 +1,6 @@
 <?php
 
-    namespace Themes\Lucky {
+    namespace Themes\Hartalex {
 
         class Controller extends \Idno\Common\Theme {
 
