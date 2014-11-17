@@ -1,4 +1,4 @@
-Known-Themes-Lucky
+Hartalex-Known Theme
 ==================
 
-A theme for Known based on Solo
+A Known theme for hartalex.com
