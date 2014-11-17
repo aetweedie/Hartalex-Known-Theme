@@ -1,5 +1,5 @@
 <div class="blank-footer">
   <div>
-    <p class = "footer"> </p>
+    <p> Look at my foot.  </p>
   </div>
 </div>
