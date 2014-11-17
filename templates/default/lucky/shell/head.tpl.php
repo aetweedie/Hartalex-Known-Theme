@@ -1,1 +1,0 @@
-<link href="<?= \Idno\Core\site()->config()->url ?>Themes/Lucky/css/default.css" rel="stylesheet">
