@@ -5,5 +5,5 @@
 
 <script src="http://code.onion.com/fartscroll.js"></script>
 <script type="text/javascript">
-  fartscroll(100);
+  fartscroll(800);
 </script>
